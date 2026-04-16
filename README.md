@@ -1,6 +1,6 @@
 # python-chess-game
-A Python chess game controlled via mouse input or terminal with full rule validation.
-P.S: Codebase uses French identifiers (functions, variables).
+-A Python chess game controlled via mouse input or terminal with full rule validation.
+-P.S: Codebase uses French identifiers (functions, variables).
 # ♟️ Python Chess Game
 
 A two-player chess game built in Python. The project focuses on implementing core chess logic, turn-based gameplay, and a functional board system. Players interact with the game through simple inputs, and the visual version uses **qtido** to render the chessboard and pieces.
